@@ -18,4 +18,4 @@ npm run dev
 
 ## Tips
 
-If you get a `permission error`, make sure to allow read/write access to your DB from the Firebase console. 
+If you get a `permission error`, make sure to allow read/write access to your DB from the Firebase console. # test1
